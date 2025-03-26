@@ -1,0 +1,3 @@
+Company Name = Analytics Vidhya
+Required Skills = python,css,html5,html,ajax,javascript
+More information = https://www.timesjobs.com/job-detail/python-developer-analytics-vidhya-gurgaon-5-to-8-yrs-jobid-1yt0PivXVN1zpSvf__PLUS__uAgZw==&source=srp

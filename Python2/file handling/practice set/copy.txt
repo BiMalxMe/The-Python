@@ -1,0 +1,2 @@
+Hey this  a original string to be copied in a new string named copy1.txt so if this moves to the 
+second location then youwill be able to see whats inside it--bimal

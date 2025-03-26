@@ -1,0 +1,3 @@
+Company Name = CONNECTING 2 WORK
+Required Skills = database,python,css,rest api,html,javascript
+More information = https://www.timesjobs.com/job-detail/python-developer-connecting-2-work-cochin-kochi-ernakulam-2-to-3-yrs-jobid-CZYubAVhafJzpSvf__PLUS__uAgZw==&source=srp

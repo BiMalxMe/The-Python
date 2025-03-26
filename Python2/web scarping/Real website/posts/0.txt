@@ -1,0 +1,3 @@
+Company Name = virtusa consulting services pvt. ltd.
+Required Skills = python development , object oriented programming , test driven development , database connectors , linux environment ,git,api
+More information = https://www.timesjobs.com/job-detail/python-virtusa-consulting-services-pvt-ltd-pune-8-to-11-yrs-jobid-PRoGGHjEoVVzpSvf__PLUS__uAgZw==&source=srp
